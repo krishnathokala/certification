@@ -1,0 +1,7 @@
+Readme Important points to be noted
+
+1. The width of the columns of the table is controlled by the grid.js file
+
+2. The various columns from the table can be easily removed by making change to the columns sent for display.
+
+3. 

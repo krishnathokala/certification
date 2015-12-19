@@ -10,10 +10,11 @@ return array(
         'Application',
         'Admin',
         'Certification',
-		'DoctrineModule',
-		'DoctrineORMModule',
-		'CsnUser',
-		'CsnAuthorization'
+	'DoctrineModule',
+	'DoctrineORMModule',
+	'CsnUser',
+	'CsnAuthorization',
+        'ZendDeveloperTools'
         ),
     'module_listener_options' => array(
         'module_paths' => array(
